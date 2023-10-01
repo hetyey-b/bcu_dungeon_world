@@ -4,7 +4,7 @@
 * [The Chaneller](The%20Chaneller.md)
 * [The Cleric](The%20Cleric.md)
 * [The Druid](The%20Druid.md)
-* [The Fighter](The%20Fighter.md)
+* [Analog Games/TTRPGs/Games/BCU Dungeon World/Character playbooks/The Fighter](The%20Fighter.md)
 * [The Necromancer](The%20Necromancer.md)
 * [The Paladin](The%20Paladin.md)
 * [The Ranger](The%20Ranger.md)

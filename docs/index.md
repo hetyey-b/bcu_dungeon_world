@@ -1,5 +1,8 @@
 # BCU Dungeon World
 
+## Update:  2023-21-01
+- New homebrew for Skirmisher's Spear Throw move
+
 ## Update: 2023-08-12
 - New compendium playbook:
     - The Knight of the Forever Flame

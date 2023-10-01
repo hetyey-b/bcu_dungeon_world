@@ -18,7 +18,7 @@
 ---
 
 * They decided to visit the field of the [The Massacre of the Dwarven Company of Whundreth Rockbelly](../Historical%20Events/The%20Massacre%20of%20the%20Dwarven%20Company%20of%20Whundreth%20Rockbelly.md), to see why it's so important for the miner
-* After finding the rock hiding the mining shaft, they dug in, and found the Tomb of the *Order of the Forever Flame*
-* [Gareth](../Characters/PCs/Gareth.md) took the oath of the *Order of the Forever Flame*, and thus became their member
-* [Gareth](../Characters/PCs/Gareth.md) took the sword of *The Blade of the Frontiers*. (*Sword of the Blade of the Frontiers*) He also took the *History and Teachings of the Order of the Forever Flame*.
+* After finding the rock hiding the mining shaft, they dug in, and found the Tomb of the [Order of the Forever Flame](../Organisations/Order%20of%20the%20Forever%20Flame.md)
+* [Gareth](../Characters/PCs/Gareth.md) took the oath of the [Order of the Forever Flame](../Organisations/Order%20of%20the%20Forever%20Flame.md), and thus became their member
+* [Gareth](../Characters/PCs/Gareth.md) took the sword of *Flame of the Wild Lands*. ([Pyreblade](../../Items/Weapons/Pyreblade.md)) He also took the *History and Teachings of the Order of the Forever Flame*.
 * As they left the tomb, sealing it back up behind them, and [Otter](../Characters/PCs/Otter.md) leaving out a trap, they heard distant bells of a *Gashadokuro* from the forest

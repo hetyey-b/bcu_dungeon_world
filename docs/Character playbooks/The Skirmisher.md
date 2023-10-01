@@ -27,11 +27,12 @@ When your Fulcrum attacks and deals damage, you can immediately make an Opportun
 
 ### Spear Throw
 
-When you throw your spear, roll+DEX. ✴On a 10+, you hit your intended target and deal your damage. ✴On a 7-9, also choose one:
+When you throw your spear, roll+STR. This throw deals 1 dice size less then usual. (d4 instead of d6) ✴On a 10+ choose two, ✴On a 7-9, choose one:
 
-* The spear is lodged and won’t be easy to recover.
-* The spear’s shaft is damaged, take -1 ongoing to Spear Throw.
-* The spear’s head is broken, it deals -1 damage from now on.
+* Accurate throw: deal your full d6 damage
+* Redirect: your throw knocks the target off balance, giving you or an ally +1 forward against them
+* Pin down: the target is slowed or immobilised for a short duration
+* Disarm: you force your opponent to drop one object they are holding in their hand
 
 When you spend an hour or so repairing your spear, remove its negative effects.
 
